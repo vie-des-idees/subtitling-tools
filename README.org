@@ -1,0 +1,12 @@
+* Overview
+
+*DISCLAIMER* This is a simplistic prototype. Check the code and use at your own
+ risk !
+* Synopsis
+
+#+BEGIN_SRC sh
+npm install
+.editor-to-srt.js /tmp/example.html
+#+END_SRC
+
+will create =/tmp/example.srt= if it doesn't exist yet.
