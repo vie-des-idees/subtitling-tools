@@ -1,0 +1,23 @@
+{
+  "name": "subtitling-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "editor-to-srt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vie-des-idees/subtitling-tools.git"
+  },
+  "keywords": [],
+  "author": "Vie Des Idées <citoyen.ne-pourlavie@laposte.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vie-des-idees/subtitling-tools/issues"
+  },
+  "homepage": "https://github.com/vie-des-idees/subtitling-tools#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
